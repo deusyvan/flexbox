@@ -3,6 +3,10 @@ body {
 	padding: 0;
 }
 
+header {
+	display: flex;
+	justify-content: center;
+}
 .container {
 	width: 990px;
 	height: 100px;
