@@ -42,3 +42,8 @@ nav a {
 	text-transform: uppercase;
 	color: #727272;
 }
+
+nav .active a {
+	background-color: #39aae1;
+	color:#FFFFFF; 
+}
