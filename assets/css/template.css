@@ -8,6 +8,7 @@ header {
 	justify-content: center;
 }
 .container {
+	display: flex;
 	width: 990px;
 	height: 100px;
 	background-color: red;
