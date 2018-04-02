@@ -38,4 +38,5 @@ nav ul {
 nave a {
 	display: block;
 	padding: 15px;
+	text-decoration: none;
 }
