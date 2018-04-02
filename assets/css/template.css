@@ -9,6 +9,7 @@ header {
 }
 .container {
 	display: flex;
+	justify-content: space-between;
 	width: 990px;
 	height: 100px;
 	background-color: red;
