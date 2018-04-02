@@ -20,8 +20,9 @@ header {
 }
 
 .menu {
-	
-	
+	background-color: #00FF00;
+	display: flex;
+	align-items: center;
 }
 
 nav ul,
