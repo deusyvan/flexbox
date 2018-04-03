@@ -65,6 +65,7 @@ nav a:hover {
 
 .banner_headline {
 	flex: 1;
+	display: flex;
 }
 
 .banner_options {
