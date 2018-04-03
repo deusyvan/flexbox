@@ -70,6 +70,11 @@ nav a:hover {
 	justify-content: center;
 }
 
+.banner_headline h1 {
+	color: #FFFFFF;
+	font-size: 50px;
+}
+
 .banner_options {
 	height: 210px;
 }
