@@ -51,8 +51,10 @@ nav a:hover {
 }
 
 #banner {
+	display: flex;
+	justify-content:center;
 	background-image: url('../images/img1.jpg');
 	background-position: center;
 	background-size: cover;
-	height: 500px;
+	height: 670px;
 }
