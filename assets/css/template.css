@@ -144,6 +144,11 @@ nav a:hover {
 	border-bottom:1px solid #556de0;
 }
 
+#geral {
+	display: flex;
+	justify-content: center;
+}
+
 
 
 
