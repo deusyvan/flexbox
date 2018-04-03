@@ -98,6 +98,8 @@ nav a:hover {
 .banner2,
 .banner3 {
 	flex: 1;
+	color: #FFFFFF;
+	padding: 20px;
 }
 
 .banner1 {
