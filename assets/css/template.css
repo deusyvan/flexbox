@@ -65,12 +65,10 @@ nav a:hover {
 
 .banner_headline {
 	flex: 1;
-	background-color: red;
 }
 
 .banner_options {
-	flex: 1;
-	background-color: green;
+	height: 210px;
 }
 
 
