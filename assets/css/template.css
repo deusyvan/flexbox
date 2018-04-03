@@ -127,7 +127,14 @@ nav a:hover {
 	margin-bottom: 20px;
 }
 
-
+.banner_options a {
+	display: inline-block;
+	border: 1px solid #FFFFFF;
+	padding: 5px;
+	color: #FFFFFF;
+	font-size: 13px;
+	text-decoration: none;
+}
 
 
 
