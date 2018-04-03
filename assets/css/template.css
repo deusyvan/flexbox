@@ -149,8 +149,13 @@ nav a:hover {
 	justify-content: center;
 }
 
+#geral section {
+	flex: 2;
+}
 
-
+#geral aside {
+	flex: 1;
+}
 
 
 
