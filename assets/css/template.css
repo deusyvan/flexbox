@@ -136,7 +136,10 @@ nav a:hover {
 	text-decoration: none;
 }
 
-
+.calendar {
+	
+	border-bottom: 1px solid #FFFFFF;
+}
 
 
 
