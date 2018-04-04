@@ -175,5 +175,17 @@ nav a:hover {
 	margin-top: 10px;
 }
 
+.widget_quadrado {
+	display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
 
+.widget_quadrado div {
+	background-color: #36A9E1;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 28px;
+}
 
