@@ -189,6 +189,10 @@ nav a:hover {
     margin-bottom: 28px;
 }
 
+article a {
+	text-decoration: none;
+}
+
 article .news_data {
 	display: flex;
 }
@@ -224,6 +228,10 @@ article .news_title {
 	font-size: 23px;
 }
 
-
+article .news_resume {
+	color: #5c5c5c;
+	line-height: 20px;
+	font-size: 14px;
+}
 
 
