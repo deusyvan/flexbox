@@ -198,6 +198,14 @@ article .news_posted_at {
 	color: #FFFFFF;
 	font-size: 12px;
 	padding: 10px;
+	margin-right: 2px;
+}
+
+article .news_comments {
+	background-color: #39aae1;
+	color: #FFFFFF;
+	font-size: 12px;
+	padding: 10px;
 }
 
 
