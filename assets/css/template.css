@@ -208,7 +208,9 @@ article .news_comments {
 	padding: 10px;
 }
 
-
+article .news_thumbnail {
+	margin-top: 30px;
+}
 
 article .news_thumbnail img {
 	width: 100%;
