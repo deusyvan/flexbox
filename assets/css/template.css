@@ -193,3 +193,15 @@ article .news_data {
 	display: flex;
 }
 
+article .news_posted_at {
+	background-color: #2b4c99;
+	color: #FFFFFF;
+	font-size: 12px;
+}
+
+
+
+
+
+
+
