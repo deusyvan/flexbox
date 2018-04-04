@@ -210,6 +210,11 @@ article .news_comments {
 
 
 
+article .news_thumbnail img {
+	width: 100%;
+	height: auto;
+}
+
 
 
 
