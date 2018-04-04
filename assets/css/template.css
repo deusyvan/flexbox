@@ -189,3 +189,7 @@ nav a:hover {
     margin-bottom: 28px;
 }
 
+article .news_data {
+	display: flex;
+}
+
