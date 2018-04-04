@@ -217,6 +217,12 @@ article .news_thumbnail img {
 	height: auto;
 }
 
+article .news_title {
+	margin-top: 25px;
+	margin-bottom: 25px;
+	color: #000000;
+	font-size: 23px;
+}
 
 
 
