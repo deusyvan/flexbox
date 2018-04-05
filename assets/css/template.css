@@ -196,6 +196,7 @@ nav a:hover {
 
 article {
 	flex: 1;
+	min-width: 300px;
 }
 
 article a {
