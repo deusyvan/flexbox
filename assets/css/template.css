@@ -246,4 +246,31 @@ article .news_resume {
 	margin-bottom: 30px;
 }
 
+footer {
+	background-color: #1e1e1e;
+	display: flex;
+	justify-content: center;
+}
+
+.footer_menu {
+	display: flex;
+	flex: 1;
+}
+
+.fm_1, .fm_2, .fm_3 {
+	flex: 1;
+}
+
+
+.banner1 {
+    background-color: #39aae1;
+}
+
+.banner2 {
+    background-color: #0079c7;
+}
+
+.banner3 {
+    background-color: #2b4c99;
+}
 
