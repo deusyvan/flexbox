@@ -277,7 +277,11 @@ footer {
 
 .footer_area {
 	 display: flex;
-	 color: #FFFFFF;
+}
+
+.footer_areaitem {
+	flex: 1;
+	color: #FFFFFF;
 }
 
 .flexColumn {
