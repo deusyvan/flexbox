@@ -259,7 +259,6 @@ footer {
 .fm_1, .fm_2, .fm_3 {
 	flex: 1;
 	color: #FFFFFF;
-	padding: 20px;
 }
 
 
@@ -273,6 +272,12 @@ footer {
 
 .fm_3 {
     background-color: #2b4c99;
+}
+
+.footer_menu a {
+	display: block;
+	text-decoration: none;
+	padding: 20px;
 }
 
 .footer_area {
