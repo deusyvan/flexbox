@@ -254,7 +254,6 @@ footer {
 
 .footer_menu {
 	display: flex;
-	flex: 1;
 }
 
 .fm_1, .fm_2, .fm_3 {
@@ -276,3 +275,10 @@ footer {
     background-color: #2b4c99;
 }
 
+.footer_area {
+	 background-color: #FF0000;
+}
+
+.flexColumn {
+	flex-direction: column;
+}
