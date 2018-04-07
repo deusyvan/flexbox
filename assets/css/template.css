@@ -276,7 +276,8 @@ footer {
 }
 
 .footer_area {
-	 background-color: #FF0000;
+	 display: flex;
+	 color: #FFFFFF;
 }
 
 .flexColumn {
