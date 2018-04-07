@@ -287,3 +287,7 @@ footer {
 .flexColumn {
 	flex-direction: column;
 }
+
+footer .widget_title_text {
+	color: #FFFFFF;
+}
