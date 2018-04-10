@@ -383,6 +383,10 @@ footer .widget_title_text {
     header .container {
         flex-direction: row;
     }
+    
+    nav ul {
+        flex-direction: column;
+    }
 }
 
 
