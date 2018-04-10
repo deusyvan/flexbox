@@ -386,6 +386,7 @@ footer .widget_title_text {
     
     nav ul {
         flex-direction: column;
+        display: none;
     }
     
     header {
