@@ -340,3 +340,65 @@ footer .widget_title_text {
     height: 30px;
     vertical-align: middle;
 }
+
+@media (max-width:638px) {
+	
+	.banner_headline {
+       padding: 20px;
+    }
+	
+	.banner_headline h1 {
+	   font-size: 29px;
+	}
+	
+	.banner_headline h2 {
+       font-size: 15px;
+       margin-top: 10px;
+    }
+    
+    .banner_options {
+        height: auto;
+        flex-direction: column;
+    }
+    
+    .container {
+        flex-direction: column;
+    }
+    
+    #geral section,
+    #geral aside {
+        padding: 20px;
+    }
+    
+    .footer_menu,
+    .footer_area {
+        flex-direction: column;
+        padding: 20px;
+    }
+    
+    .footer_copy {
+        padding-left: 20px;
+    }
+    
+    header .container {
+        flex-direction: row;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
