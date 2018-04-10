@@ -351,6 +351,11 @@ footer .widget_title_text {
 	margin-right: 20px;
 }
 
+.mm_line {
+	height: 2px;
+	background-color: #39aae1;
+}
+
 @media (max-width:638px) {
 	
 	.banner_headline {
@@ -408,7 +413,9 @@ footer .widget_title_text {
     }
     
     .menuMobile {
-        display: block;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
     }
 }
 
