@@ -59,7 +59,7 @@ nav a:hover {
 	background-image: url('../images/img1.jpg');
 	background-position: center;
 	background-size: cover;
-	height: 670px;
+	height: 780px;
 }
 
 .column {
@@ -288,7 +288,7 @@ footer {
 .footer_areaitem {
 	flex: 1;
 	color: #FFFFFF;
-	padding: 5px;
+	
 }
 
 .flexColumn {
@@ -384,7 +384,9 @@ footer .widget_title_text {
         padding: 20px;
     }
     
-    .footer_menu,
+    .footer_menu {
+        flex-direction:column;
+    }
     .footer_area {
         flex-direction: column;
         padding: 20px;
