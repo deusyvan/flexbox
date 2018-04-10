@@ -341,6 +341,13 @@ footer .widget_title_text {
     vertical-align: middle;
 }
 
+.menuMobile {
+	display: none;
+	width: 40px;
+	height: 40px;
+	background-color: #000000;
+}
+
 @media (max-width:638px) {
 	
 	.banner_headline {
@@ -395,6 +402,10 @@ footer .widget_title_text {
     
     .logo {
         padding-left: 20px;
+    }
+    
+    .menuMobile {
+        display: block;
     }
 }
 
